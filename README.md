@@ -1,6 +1,6 @@
-# Misuri - Xcode Theme 👨🏾‍💻 by Julio Litzenberg 
+# Misuri - Xcode Theme
 
-### Xcode Color Theme 
+### Xcode Color Theme Created 👨🏾‍💻 by Julio Litzenberg 
 
 ### How to Install 
 - Download the .xccolortheme files from this repository.
